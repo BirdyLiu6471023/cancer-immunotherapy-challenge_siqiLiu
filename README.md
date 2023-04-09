@@ -1,4 +1,4 @@
-# cancer-immunotherapy-challenge_siqiLiu
+# cancer-immunotherapy-challenge
 ### Topcoder challenge Winner (10th)
 
 **Challenge Details:**
